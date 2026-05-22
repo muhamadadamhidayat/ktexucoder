@@ -5,11 +5,11 @@
 
 <!-- Live Metrics & Social Connections -->
 <p align="center">
-  <img src="https://komarev.com/normal-badge/?username=ktexucoder&color=0078d4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/normal-badge/?username=muhamadadamhidayat&color=0078d4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ktexucoder" target="_blank">
+  <a href="https://github.com/muhamadadamhidayat" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat-square&logo=Github&logoColor=white" />
   </a> 
   <a href="https://lnk.bio/ktexucoder" target="_blank">
@@ -147,18 +147,18 @@ My technical journey began with game server administration, leading me to archit
 ## 📈 Performance & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ktexucoder&show_icons=true&theme=tokyonight&hide_border=true&title_color=0078D4&text_color=a9b1d6&icon_color=0078D4&bg_color=1a1a2e" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktexucoder&layout=compact&theme=tokyonight&hide_border=true&title_color=0078D4&text_color=a9b1d6&bg_color=1a1a2e" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhamadadamhidayat&show_icons=true&theme=tokyonight&hide_border=true&title_color=0078D4&text_color=a9b1d6&icon_color=0078D4&bg_color=1a1a2e" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadadamhidayat&layout=compact&theme=tokyonight&hide_border=true&title_color=0078D4&text_color=a9b1d6&bg_color=1a1a2e" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktexucoder&theme=tokyonight&hide_border=true&background=1a1a2e&ring=0078D4&fire=FF2D20" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadadamhidayat&theme=tokyonight&hide_border=true&background=1a1a2e&ring=0078D4&fire=FF2D20" alt="GitHub Streak" width="97%" />
 </p>
 
 ### 🐍 Contribution Activity Tracker
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ktexucoder/ktexucoder/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/muhamadadamhidayat/muhamadadamhidayat/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
